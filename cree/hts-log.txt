@@ -1,0 +1,30 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 23 Jun 2023 16:49:23 at https://duruthemes.com/demo/html/jopho/dark/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://duruthemes.com/demo/html/jopho/dark/ -O1 "C:\My Web Sites\cree" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+
+
+Information, Warnings and Errors reported for this mirror:
+
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+
+	such as username/password authentication for websites mirrored in this project
+
+	do not share these files/folders if you want these information to remain private
+
+
+
+16:51:55	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://duruthemes.com/demo/html/jopho/dark/img/services/04.jpg (from https://duruthemes.com/demo/html/jopho/dark/)
+
+16:52:01	Warning: 	Retry after error -4 (No data (connection closed)) at link www.duruthemes.com/idesign/Josefin Sans-v3/css/plugins/owl.video.play.png (from https://duruthemes.com/demo/html/jopho/dark/css/plugins/owl.carousel.min.css)
+
+16:52:06	Warning: 	Retry after error -4 (No data (connection closed)) at link www.duruthemes.com/idesign/Josefin Sans-v3/css/plugins/owl.video.play.png (from https://duruthemes.com/demo/html/jopho/dark/css/plugins/owl.carousel.min.css)
+
+16:52:06	Error: 	"No data (connection closed)" (-4) after 2 retries at link www.duruthemes.com/idesign/Josefin Sans-v3/css/plugins/owl.video.play.png (from https://duruthemes.com/demo/html/jopho/dark/css/plugins/owl.carousel.min.css)
+
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 43 seconds : 83 links scanned, 78 files written (8279786 bytes overall) [7589936 bytes received at 46564 bytes/sec], 957316 bytes transferred using HTTP compression in 31 files, ratio 24%, 3.2 requests per connection
+
+(1 errors, 3 warnings, 0 messages)
+
