@@ -137,13 +137,13 @@ $(function() {
 });
 
 // Loading
-$(window).on("load",function (){
-    var wind = $(window);
-    // Preloader
-    $(".loading").fadeOut(500);
-    // stellar
-    wind.stellar();
-});
+// $(window).on("load",function (){
+//     var wind = $(window);
+//     // Preloader
+//     $(".loading").fadeOut(500);
+//     // stellar
+//     wind.stellar();
+// });
 
 // Slider 
 $(document).ready(function() {
